@@ -1,4 +1,4 @@
-[!DANGER]
+[!CAUTION]
 > Obsolete. This is now unmaintained. Maintained version: [varithmetic/inirw](https://github.com/varithmetic/inirw)
 > Maintained version also available in CodeBerg: [varithmetic/inirw](https://codeberg.org/varithmetic/inirw)
  
